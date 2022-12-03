@@ -3,11 +3,11 @@
     /* Projects */
 
     /* Language and Environment */
-    "target": "ES2022" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "target": "ES6" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
 
     /* Modules */
     "module": "commonjs" /* Specify what module code is generated. */,
-
+    "outDir": "dist",
     /* JavaScript Support */
 
     /* Emit */
